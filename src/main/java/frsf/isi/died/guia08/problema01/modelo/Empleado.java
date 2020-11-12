@@ -18,6 +18,7 @@ public class Empleado {
 	private Function<Tarea, Double> calculoPagoPorTarea;		
 	private Predicate<Tarea> puedeAsignarTarea;
 
+// inciso 2 A . cambio en el codigo
 	
 	public Double salario() {
 		// cargar todas las tareas no facturadas
