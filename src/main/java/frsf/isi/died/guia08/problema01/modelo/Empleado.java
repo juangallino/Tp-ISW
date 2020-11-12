@@ -21,9 +21,7 @@ public class Empleado {
 // bug encontrado. 			inciso 2F
 	
 	public Double salario() {
-		// cargar todas las tareas no facturadas
-		// calcular el costo
-		// marcarlas como facturadas.
+
 		return 0.0;
 	}
 	
@@ -42,26 +40,18 @@ public class Empleado {
 	}
 	
 	public void comenzar(Integer idTarea) {
-		// busca la tarea en la lista de tareas asignadas 
-		// si la tarea no existe lanza una excepción
-		// si la tarea existe indica como fecha de inicio la fecha y hora actual
+
 	}
 	
 	public void finalizar(Integer idTarea) {
-		// busca la tarea en la lista de tareas asignadas 
-		// si la tarea no existe lanza una excepción
-		// si la tarea existe indica como fecha de finalizacion la fecha y hora actual
+
 	}
 
 	public void comenzar(Integer idTarea,String fecha) {
-		// busca la tarea en la lista de tareas asignadas 
-		// si la tarea no existe lanza una excepción
-		// si la tarea existe indica como fecha de finalizacion la fecha y hora actual
+
 	}
 	
 	public void finalizar(Integer idTarea,String fecha) {
-		// busca la tarea en la lista de tareas asignadas 
-		// si la tarea no existe lanza una excepción
-		// si la tarea existe indica como fecha de finalizacion la fecha y hora actual
+
 	}
 }
