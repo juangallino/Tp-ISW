@@ -27,8 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a6c6ece-94b0-42dd-a138-ccb96bda2160" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frsf/isi/died/guia08/problema01/modelo/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frsf/isi/died/guia08/problema01/modelo/Empleado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Feature/inciso2A" />
+        <entry key="$PROJECT_DIR$" value="Release/1.1.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605211853540</updated>
       <workItem from="1605211855256" duration="1910000" />
-      <workItem from="1605213781915" duration="1566000" />
+      <workItem from="1605213781915" duration="2516000" />
     </task>
     <servers />
   </component>
