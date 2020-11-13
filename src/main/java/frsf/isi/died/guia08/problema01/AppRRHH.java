@@ -10,8 +10,6 @@ import frsf.isi.died.guia08.problema01.modelo.Tarea;
 
 //Modificación 2i
 
-//Modificación 2j - B
-
 public class AppRRHH {
 
 	private List<Empleado> empleados;
