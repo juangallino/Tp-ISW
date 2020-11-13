@@ -8,6 +8,8 @@ import java.util.function.Predicate;
 import frsf.isi.died.guia08.problema01.modelo.Empleado;
 import frsf.isi.died.guia08.problema01.modelo.Tarea;
 
+//Modificación 2i
+
 public class AppRRHH {
 
 	private List<Empleado> empleados;
